@@ -10,7 +10,7 @@ Simply gathering data does not add value to your business; you need to derive in
 
 There are a number of ways data analytics can help your business thrive. In the case of a retail store, if you understand your customers better, you will have a better idea on what products you should sell, where to sell it, when to sell it and how to sell it. For the public sector, data analytics is helping fight crimes by providing more informed risk assessments based on historical criminal intelligence. Another example is how manufacturing industries have modernised their businesses by using various sensors and data points to better track and monitor their assets and equipment: are the assets of good health? Do they need replacement? 
 
-In this chapter, we will cover fundamental topics on power of data with Big Data analytics, the Internet of Things, Machine Learning and Artificial Intelligence, and DataOps. We will also understand why Microsoft Azure is a platform of choice in doing analytics on cloud. Lastly, we will tackle the fundamental concepts of a modern data warehouse and data pipelines.
+In this lesson, we will cover fundamental topics on power of data with Big Data analytics, the Internet of Things (IoT), Machine Learning (ML) and Artificial Intelligence (AI), and DataOps. We will also understand why Microsoft Azure is a platform of choice in doing analytics on cloud. Lastly, we will tackle the fundamental concepts of a modern data warehouse and data pipelines.
 
 ### The power of data
 
