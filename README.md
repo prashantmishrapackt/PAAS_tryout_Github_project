@@ -1,4 +1,4 @@
-## Introducing data analytics on Azure
+## Introducing Cloud Analytics on Azure
 
 According to Dresner Advisory Service in their 2019 Cloud Computing and Business Intelligence Market Study, 48% (which is an all-time-high) of organizations say business intelligence on cloud is either “critical” or “very important” in conducting their business operations. In this same research, the sales and marketing teams are the ones who gets the most value out of analytics. 
 
