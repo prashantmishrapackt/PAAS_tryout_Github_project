@@ -12,7 +12,8 @@ There are a number of ways data analytics can help your business thrive. In the 
 
 In this chapter, we will cover fundamental topics on power of data with Big Data analytics, the Internet of Things, Machine Learning and Artificial Intelligence, and DataOps. We will also understand why Microsoft Azure is a platform of choice in doing analytics on cloud. Lastly, we will tackle the fundamental concepts of a modern data warehouse and data pipelines.
 
-### The power of data
+### The power of data by Aditya Datar
+
 
 As a consumer, data has changed the way we interact on our day to day lives. In the entertainment industry, we can now get a customized experience such as recommended videos (TV Shows, Movies, and online clips) based on our interests and historical activities; it is easier now to discover music that is similar to your favourites and understand what are popular and trending. With the increase of digitisation of our health data such as adoption of wearable devices like smart watches, we now get an improved health services by having the ability to monitor our health status; as well as getting tailored recommendations on how to improve our overall health.
 
